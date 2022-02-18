@@ -1,5 +1,5 @@
 <?php
-$monTitre = '';
+$monTitre = 'Coucou';
 require('inc/function.php');
 
  $fruits = [
