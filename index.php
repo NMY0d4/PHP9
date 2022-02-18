@@ -3,7 +3,7 @@ $monTitre = '';
 require('inc/function.php');
 
  $fruits = [
-    "banane" => '-- Banane 🍌 --',
+    "banane" => '-- Banane 🍌 BANANA --',
     "raisins" => '-- Raisins 🍇 --',
     "cerise" => '-- Cerise 🍒 --',
     "fraise" => '-- Fraise 🍓 --',                
