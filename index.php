@@ -4,7 +4,7 @@ require('inc/function.php');
 
 $fruits = [
     "banane" => '-- Banane 🍌 --',
-    "raisins" => '-- Aubergine 🍇 --',
+    "raisins" => '-- Aubergin 🍇 --',
     "cerise" => '-- Cerise 🍒 --',
     "fraise" => '-- Fraise 🍓 --',
 ];
