@@ -5,7 +5,7 @@ require('inc/function.php');
  $fruits = [
     "banane" => '-- Banane 🍌 --',
     "raisins" => '-- Raisins 🍇 --',
-    "cerise" => '-- Cerise 🍒 Cherry--',
+    "cerise" => '-- Cerise 🍒 Cherry --',
     "fraise" => '-- Fraise 🍓 --',                
 ]; 
 
